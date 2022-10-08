@@ -1,15 +1,14 @@
 ### 2022 BIG DATA HACKATHON PROPOSAL FORM
 
-#### Team Number: `team250`  
+#### Team Number: `Team250`  
 
-#### Team Name: `the_relative_primes`    
+#### Team Name: `The_Relative_Primes`    
   
 #### Your team’s hackathon idea in One sentence:
 ##### `Analyze traffic incidents data, investigate factors driving such incidents, and compaqrison before and during the pandemic`
 
 
 #### A visual
-picture of pie chart about carcrashes.png
 
 
 <img height="10%" width="80%" alt="hdma" src="picture of pie chart about carcrashes.png"> 

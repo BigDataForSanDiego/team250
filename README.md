@@ -5,7 +5,7 @@
 #### Team Name: `The_Relative_Primes`    
   
 #### Your team’s hackathon idea in One sentence:
-##### `Analyze traffic incidents data, investigate factors driving such incidents, and compaqrison before and during the pandemic`
+##### `Analyze traffic incidents data, investigate factors driving such incidents, and comparison before and during the pandemic.`
 
 
 #### A visual

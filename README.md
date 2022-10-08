@@ -29,4 +29,5 @@ picture of pie chart about carcrashes.png
 
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
-#### Team Members `Yrafael huante huantezav8286: Zachary zinn; felix santillanes; carolina gonzalez; Kandy vela, agustin portillo; steven velarde; sarah santiago`
+#### Team Members `Team Members `Rafael Huante Github: rhuantezavala8286 ;Zachary Zinn Github: Zachary910; Felix Santillanes Github: FlexyTheCat; Carolina Gonzales Github: Carolinag0325; Steven Velarde; Agustin Portillo; Kandy Vela; Sarah Santiago;`
+`

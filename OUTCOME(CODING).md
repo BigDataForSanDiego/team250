@@ -1,4 +1,4 @@
-library(readxl)
+#### library(readxl)
 fulldata<- read_excel("dataCrashes.xlsx", sheet="Crashes",col_names = TRUE) #3121 obs, 80 variables
 fulldata<- fulldata[, c(1, 2, 6, 9, 11, 15, 23, 24, 37:41, 43, 46:48, 50, 51, 53, 61, 75, 76, 78:80)]
 

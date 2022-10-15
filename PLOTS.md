@@ -26,3 +26,7 @@ The most accidents occurred on the weekdays with Friday being the worst. There h
 <img height="10%" width="80%" alt="hdma" src="https://raw.githubusercontent.com/BigDataForSanDiego/team250/main/Images/CorAnalysis.jpg">
 
 The highest correlation was between a city and its population that determined how many accidents occurred. More car crashes occurred in higher populated cities. The next highest correlation was between lighting and alcohol involved accidents.
+
+
+<img height="10%" width="80%" alt="hdma" src=" https://github.com/BigDataForSanDiego/team250/blob/4abde0ac4a69588994dfcbcee4b7a6d6df7062f6/Images/NeuralNetworkPlot.jpeg
+">

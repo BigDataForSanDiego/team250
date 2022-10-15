@@ -6,7 +6,7 @@
 #### library(tidyverse)
 #### library(ggplot2)
 #### attach(fulldata)
-uni<-unique(CITY)
+### uni<-unique(CITY)
 data_by_city<-NULL
 
 for (i in 1:length(uni)){

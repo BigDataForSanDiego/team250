@@ -1,4 +1,4 @@
-### 2022 BIG DATA HACKATHON PROPOSAL FORM
+### 2022 PITO CHICO
 
 #### Team Number: `Team250`  
 

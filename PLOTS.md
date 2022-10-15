@@ -1,4 +1,3 @@
-
 <img height="10%" width="80%" alt="hdma" src="https://raw.githubusercontent.com/BigDataForSanDiego/team250/main/Images/Accidents_in_Cities.png">
 
 There were 639 accidents car crashes in El Centro for the past five years; the most of any Imperial Valley city. The least number of accidents were in Westmorland at 5 followed by Holtville at 7.
@@ -16,9 +15,9 @@ Most crashes from minor to fatal occurred when the weather was clear or cloudy. 
 
 <img height="10%" width="80%" alt="hdma" src="https://raw.githubusercontent.com/BigDataForSanDiego/team250/main/Images/Accidents_by_Day_of_Week_with_Severity.png">
 
-
 The most accidents occurred on the weekdays with Friday being the worst. There have been 554 crashes on Fridays with 25 crashes resulting in a fatality.
 
 
-1,186 crashes occurred in the afternoon regardless of severity. However. more fatalities occurred in the evening than afternoon.
 <img height="10%" width="80%" alt="hdma" src="https://raw.githubusercontent.com/BigDataForSanDiego/team250/main/Images/Accidents_by_Time_with_Severity.png">
+
+1,186 crashes occurred in the afternoon regardless of severity. However. more fatalities occurred in the evening than afternoon.

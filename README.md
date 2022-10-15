@@ -9,10 +9,10 @@
 
 
 #### A visual
-
+https://share.streamlit.io/tttang0602/streamlit-traffic/main/transport.py
 ### streamlit-traffic
 
-[**Streamlit App**](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/tttang0602/streamlit-traffic/main/transport.py)
+[**Streamlit App**](https://share.streamlit.io/tttang0602/streamlit-traffic/main/transport.py)
 
 <img height="10%" width="80%" alt="hdma" src="picture of pie chart about carcrashes.png"> 
 

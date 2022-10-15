@@ -19,7 +19,7 @@
 #### Hackathon Theme(s) (check a box(es))
 - [X] Artificial Intelligence/Machine Learning 
 > How can we leverage AI/ML Algorithms to help support diagnostics, clinical decisions, and forecast staffing and hospital capacity?
-- [] Mobile
+- [X] Mobile
 > Designing Mobile Apps to improve user experience before, during, and after a healthcare visit.
 - [] Patient experience
 > How do you incorporate the patient perspective through the intersection of patient, provider, and community data into care plans.

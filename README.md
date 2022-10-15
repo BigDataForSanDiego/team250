@@ -11,7 +11,7 @@
 
 ### streamlit-traffic
 
-[##**Streamlit App**](https://share.streamlit.io/tttang0602/streamlit-traffic/main/transport.py)
+[**Streamlit App**](https://share.streamlit.io/tttang0602/streamlit-traffic/main/transport.py)
 
 #### A visual
 <img height="10%" width="80%" alt="hdma" src="picture of pie chart about carcrashes.png"> 

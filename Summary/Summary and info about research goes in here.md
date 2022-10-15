@@ -12,3 +12,7 @@ Imperial Valley Press Online. (2021, December 21). Drive-thru fail. Imperial Val
 U.S Department of Transportation. Lighting. Safety. Retrieved October 14, 2022, from https://safety.fhwa.dot.gov/provencountermeasures/lighting.cfm#psc-footnote 
 U.S Department of Transportation. (2022, July 26). How do weather events impact roads? U.S Department of Transportation. Retrieved October 14, 2022, from https://ops.fhwa.dot.gov/weather/q1_roadimpact.htm#:~:text=The%20vast%20majority%20of%20most,pavement%20and%2046%25%20during%20rainfall 
 
+
+
+#### Slides based on the project
+https://docs.google.com/presentation/d/1ohgu7CqgWcBb7xcaBVdWt6mI9A-nUSrXsW709kC7yfI/edit#slide=id.g1678ed40d22_3_75
